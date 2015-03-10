@@ -1,14 +1,35 @@
 {
   "name": "grunt-jsonschema-validate",
-  "version": "0.1.0",
   "description": "Grunt task validating JSON files against JSON schema",
-  "main": "Gruntfile.js",
+  "version": "0.1.1",
+  "author": "Tomasz Ducin <tomasz.ducin@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/tkoomzaaskz/grunt-jsonschema-validate.git"
   },
-  "author": "Tomasz Ducin <tomasz.ducin@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/tkoomzaaskz/grunt-jsonschema-validate/issues"
+  },
+  "homepage": "https://github.com/tkoomzaaskz/grunt-jsonschema-validate",
   "license": "MIT",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-internal": "^0.4.12",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-nodeunit": "^0.4.1"
+  },
+  "dependencies": {
+    "jsonschema": "^1.0.0"
+  },
+  "peerDependencies": {
+    "grunt": ">=0.4.0"
+  },
   "keywords": [
     "gruntplugin",
     "json",
@@ -16,11 +37,7 @@
     "validation",
     "validator"
   ],
-  "bugs": {
-    "url": "https://github.com/tkoomzaaskz/grunt-jsonschema-validate/issues"
-  },
-  "homepage": "https://github.com/tkoomzaaskz/grunt-jsonschema-validate",
-  "dependencies": {
-    "jsonschema": "^1.0.0"
-  }
+  "files": [
+    "tasks"
+  ]
 }
