@@ -1,7 +1,7 @@
 {
   "name": "grunt-jsonschema-validate",
   "description": "Grunt task validating JSON files against JSON schema",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Tomasz Ducin <tomasz.ducin@gmail.com>",
   "repository": {
     "type": "git",
