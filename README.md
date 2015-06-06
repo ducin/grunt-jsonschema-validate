@@ -1,4 +1,4 @@
-# grunt-jsonschema-validate v0.1.2 [![Build Status: Linux](https://travis-ci.org/tkoomzaaskz/grunt-jsonschema-validate.svg?branch=master)](https://travis-ci.org/tkoomzaaskz/grunt-jsonschema-validate)
+# grunt-jsonschema-validate v0.1.3 [![Build Status: Linux](https://travis-ci.org/ducin/grunt-jsonschema-validate.svg?branch=master)](https://travis-ci.org/ducin/grunt-jsonschema-validate)
 
 > Grunt task validating JSON files against JSON schema
 
@@ -29,7 +29,8 @@ Task targets, files and options may be specified according to the grunt [Configu
 
 [![grunt-jsonschema-validate npm module](https://nodei.co/npm/grunt-jsonschema-validate.png?downloads=true&stars=true "grunt-jsonschema-validate npm module")](https://www.npmjs.com/package/grunt-jsonschema-validate)
 
-![grunt-jsonschema-validate dependency status](https://david-dm.org/tkoomzaaskz/grunt-jsonschema-validate.png "grunt-jsonschema-validate dependency status")
+[![Dependency Status](https://david-dm.org/ducin/grunt-jsonschema-validate/status.svg)](https://david-dm.org/ducin/grunt-jsonschema-validate)
+[![devDependency Status](https://david-dm.org/ducin/grunt-jsonschema-validate/dev-status.svg)](https://david-dm.org/ducin/grunt-jsonschema-validate#info=devDependencies)
 
 ### Options
 
@@ -75,6 +76,7 @@ built on top of.
 
 ## Release History
 
+ * 2015-06-07   v0.1.3   Moving ownership (user rename) tkoomzaaskz:ducin.
  * 2015-03-13   v0.1.2   Unified docs.
  * 2015-03-10   v0.1.1   Improved docs. Automatic tests added. Grunt-contrib-internal standard used to build.
  * 2015-03-08   v0.1.0   Fully working JSON schema validation. First official release.
@@ -83,4 +85,4 @@ built on top of.
 
 Task submitted by [Tomasz Ducin](http://ducin.it)
 
-*This file was generated on Sun Mar 15 2015 13:31:40.*
+*This file was generated on Sun Jun 07 2015 01:38:46.*

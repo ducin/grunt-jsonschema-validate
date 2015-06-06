@@ -1,11 +1,11 @@
 /**
  * grunt-jsonschema-validate is a Grunt plugin validating JSON files against JSON schema
  *
- * @see https://github.com/tkoomzaaskz/grunt-jsonschema-validate
+ * @see https://github.com/ducin/grunt-jsonschema-validate
  *
- * @author Tomasz Ducin <tomasz.ducin@gmail.com> (https://github.com/tkoomzaaskz)
+ * @author Tomasz Ducin <tomasz.ducin@gmail.com> (https://github.com/ducin)
  * @copyright © 2015 Tomasz Ducin
- * @license MIT https://raw.github.com/tkoomzaaskz/grunt-jsonschema-validate/master/LICENSE
+ * @license MIT https://raw.github.com/ducin/grunt-jsonschema-validate/master/LICENSE
  */
 
 'use strict';

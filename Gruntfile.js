@@ -1,6 +1,6 @@
 /*
  * grunt-jsonschema-validate
- * https://github.com/tkoomzaaskz/grunt-jsonschema-validate
+ * https://github.com/ducin/grunt-jsonschema-validate
  *
  * Copyright (c) 2015 Tomasz Ducin
  * Licensed under the MIT license.
